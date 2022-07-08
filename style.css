@@ -24,13 +24,13 @@ body {
     top: 50%;
     left: 50%;
     height: 350px;
-    width: 400px;
+    width: 300px;
     border-radius: 25px;
     overflow: hidden;
     box-shadow: 4px 10px 10px
 }
 .row1 {
-    height: 40%;
+    height: 45%;
     width: 100%;
         background-image:url('https://media3.giphy.com/media/3o6vXTpomeZEyxufGU/giphy.gif');
     background-size: cover;
@@ -131,7 +131,7 @@ body {
     height: 15px;
     width: 15px;
     background-size: cover;
-    margin: 5px;
+    margin: 12px;
 }        
 #mute {
     height: 30px;
